@@ -2,6 +2,12 @@
 name = "unizen_rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["Etherdrake <contact@etherdrake.com>"]
+description = "This crate holds the contract addresses for interacting with Unizen: https://www.unizen.io/. All rights go to https://github.com/unizen-io."
+readme = "README.md"
+license = "MIT"
+repository = ""
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
