@@ -1,6 +1,6 @@
 [package]
 name = "unizen_rs"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Etherdrake contact@etherdrake.com"]
 description = "This crate holds the contract addresses for interacting with Unizen: https://www.unizen.io/. All rights go to https://github.com/unizen-io."
