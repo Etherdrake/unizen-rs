@@ -9,6 +9,8 @@ license = "MIT"
 repository = "https://github.com/Etherdrake/unizen-rs"
 
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "unizen_rs"
+path = "src/lib.rs"
+crate-type = ["lib"]
 
-[dependencies]
